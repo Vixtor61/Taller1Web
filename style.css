@@ -1,19 +1,22 @@
 .content {
-            
+    padding: 1.3em;        
     margin: 0.3em;
     border: 0.3em solid black;
     background: whitesmoke;
     
 }
+header h1{
+    text-align: center;
+    size: 3em;
+    padding: 0.5em;
+}
 .topbar{
     width: 100%;
     
     min-width: 200px;
- 
-
-
-    ;
-
+}
+.topbar input{
+    border: 1px solid rgb(red, green, blue);
 }
 body {
     background: #767de4;
@@ -33,9 +36,12 @@ p{
 
 
 }
-.commenticon{
-    display: inline-block;
+.icon{
+    display: block;
     padding: 0.2em 0.2em;
+    border-radius: 2em;
+    border-color: black;
+    color: whitesmoke;
 
 }
 hr{
