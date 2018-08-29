@@ -1,0 +1,43 @@
+.content {
+            
+    margin: 0.3em;
+    border: 0.3em solid black;
+    background: whitesmoke;
+    
+}
+.topbar{
+    width: 100%;
+    
+    min-width: 200px;
+ 
+
+
+    ;
+
+}
+body {
+    background: #767de4;
+}
+.user{
+    color: red;
+    padding: bold;
+    font-family: sans-serif;
+}
+p{
+    font-family: sans-serif;
+}
+.comment{
+    display: inline-block;
+    width: 80%;
+    padding: 0.1em 0.1em;
+
+
+}
+.commenticon{
+    display: inline-block;
+    padding: 0.2em 0.2em;
+
+}
+hr{
+
+}
